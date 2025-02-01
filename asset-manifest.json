@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/linearcj/static/css/main.16021dee.css",
-    "main.js": "/linearcj/static/js/main.ca672515.js",
-    "static/js/488.bffbd68c.chunk.js": "/linearcj/static/js/488.bffbd68c.chunk.js",
+    "main.css": "/linearcj/static/css/main.16c2ec70.chunk.css",
+    "main.js": "/linearcj/static/js/main.f59d9394.chunk.js",
+    "main.js.map": "/linearcj/static/js/main.f59d9394.chunk.js.map",
+    "runtime-main.js": "/linearcj/static/js/runtime-main.6b3c6c23.js",
+    "runtime-main.js.map": "/linearcj/static/js/runtime-main.6b3c6c23.js.map",
+    "static/js/2.3a231669.chunk.js": "/linearcj/static/js/2.3a231669.chunk.js",
+    "static/js/2.3a231669.chunk.js.map": "/linearcj/static/js/2.3a231669.chunk.js.map",
+    "static/js/3.d4adf9cd.chunk.js": "/linearcj/static/js/3.d4adf9cd.chunk.js",
+    "static/js/3.d4adf9cd.chunk.js.map": "/linearcj/static/js/3.d4adf9cd.chunk.js.map",
     "index.html": "/linearcj/index.html",
-    "main.16021dee.css.map": "/linearcj/static/css/main.16021dee.css.map",
-    "main.ca672515.js.map": "/linearcj/static/js/main.ca672515.js.map",
-    "488.bffbd68c.chunk.js.map": "/linearcj/static/js/488.bffbd68c.chunk.js.map"
+    "precache-manifest.c1af280906507240205945ff3e1afc9e.js": "/linearcj/precache-manifest.c1af280906507240205945ff3e1afc9e.js",
+    "service-worker.js": "/linearcj/service-worker.js",
+    "static/css/main.16c2ec70.chunk.css.map": "/linearcj/static/css/main.16c2ec70.chunk.css.map",
+    "static/js/2.3a231669.chunk.js.LICENSE.txt": "/linearcj/static/js/2.3a231669.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.16021dee.css",
-    "static/js/main.ca672515.js"
+    "static/js/runtime-main.6b3c6c23.js",
+    "static/js/2.3a231669.chunk.js",
+    "static/css/main.16c2ec70.chunk.css",
+    "static/js/main.f59d9394.chunk.js"
   ]
 }
