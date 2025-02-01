@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linearcj/static/css/main.7c7e8a9a.css",
+    "main.js": "/linearcj/static/js/main.aa024328.js",
+    "static/js/488.bffbd68c.chunk.js": "/linearcj/static/js/488.bffbd68c.chunk.js",
+    "index.html": "/linearcj/index.html",
+    "main.7c7e8a9a.css.map": "/linearcj/static/css/main.7c7e8a9a.css.map",
+    "main.aa024328.js.map": "/linearcj/static/js/main.aa024328.js.map",
+    "488.bffbd68c.chunk.js.map": "/linearcj/static/js/488.bffbd68c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7e8a9a.css",
+    "static/js/main.aa024328.js"
+  ]
+}
